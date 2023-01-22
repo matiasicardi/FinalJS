@@ -19,6 +19,10 @@ h2, a{
     margin-top: 65px;
 }
 
+a{
+    text-decoration: none;
+}
+
 .caja {
     display: block;
     width: 50%;
